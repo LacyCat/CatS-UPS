@@ -3,3 +3,7 @@ version: '21.4-1'
 main: cat.LacyCat.catSUPS.CatSUPS
 api-version: '1.21'
 authors: [ LacyCat ]
+commands:
+  upgrade:
+    description: 강화 창 열기
+    usage: /upgrade
